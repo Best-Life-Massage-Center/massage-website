@@ -8,7 +8,7 @@ body > h1 {
   font-family: "Roboto", sans-serif;
 }
 
-div + p {
+body > p {
   padding-top: 30px;
   font-size: 1.6rem;
 }
